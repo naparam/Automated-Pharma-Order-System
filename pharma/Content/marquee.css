@@ -1,0 +1,14 @@
+﻿#marqu{
+  color: Pink; 
+  font-family: "Courier";
+  font-size: 20px;
+  margin: 10px 0 0 0px;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 60em;
+  animation: type 5s steps(60, end); 
+}
+
+@keyframes type{ 
+  from { width: 0; } 
+}

@@ -1,0 +1,19 @@
+﻿.textfield:focus{
+     box-shadow: 0 0 5px #B0CFE0;
+    border:1px solid #B0CFE0;
+    box-sizing: border-box; 
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box; 
+    padding: 8px;
+    outline: none;
+    border: 1px solid #B0CFE0;
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+}
+
+.table-form td{
+   font-size:12px;
+
+}
